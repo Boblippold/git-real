@@ -10,4 +10,6 @@ Jane creates README.txt
 
 
 Add file to staging area.
-Commit changes
+Commit changes.
+
+CHANGE 1
